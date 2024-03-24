@@ -1,1 +1,1 @@
-# NavBar-Component
+# Responsive NavBar-Component
